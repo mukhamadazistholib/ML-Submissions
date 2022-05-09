@@ -1,5 +1,5 @@
 # ML-Submissions
-Dicoding Machine Learning for Dummies
+Dicoding Machine Learning untuk Pemula
 
 # Contributor
 Mukhamad Azis Tholib
