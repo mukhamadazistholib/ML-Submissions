@@ -1,3 +1,6 @@
+# Contributor
+mukhamadazistholib278[at]gmail[dot]com
+
 ## Checkpoint
 
 - [x] Dataset yang akan dipakai bebas, namun minimal memiliki 1000 buah gambar.
